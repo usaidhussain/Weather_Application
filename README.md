@@ -48,6 +48,5 @@ Special thanks to the OpenWeather team for providing the weather data API.
 
 
 
-
-
-
+<h3>ScreenShots </h3><br>
+![Screenshot](https://github.com/user-attachments/assets/7bc51ad2-a840-4e1c-b382-82f86125b7d7)
