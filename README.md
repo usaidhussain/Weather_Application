@@ -42,7 +42,6 @@ The weather icons used in this application are provided by OpenWeather.<br>
 <h3>Author</h3>
 USAIDHUSSAIN.A <br>
 GitHub: @usaidhussain
-![Screenshot 2024-10-30 115656](https://github.com/user-attachments/assets/60d29d8d-4c67-422c-8bed-47789745b5b8)
 
 <h3>Acknowledgments</h3><br>
 Special thanks to the OpenWeather team for providing the weather data API.
